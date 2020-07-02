@@ -1,3 +1,7 @@
+## Links
+* <a href="Resume - Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
+* [LinkedIn](https://www.linkedin.com/in/todd-erickson-19458387/)
+
 ## Websites
 * [Simple Web Page Using CSS](http://twericks.freevar.com/eao9K5lyP2-HW3/5dxohXgWKO-Home.html)
 * [JSON File Parser (enter "buildinglist.json" in the field and press "Submit Query")](http://twericks.freevar.com/J9HRhBNZsM-HW4/48wUPzCAsf-HW4.html)
@@ -16,5 +20,4 @@
 * [https://github.com/terickson87/HackerRank](https://github.com/terickson87/HackerRank)
 * [https://github.com/terickson87/SamsTeachYourself](https://github.com/terickson87/SamsTeachYourself)
 
-## Resume
-* <a href="Resume - Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
+
