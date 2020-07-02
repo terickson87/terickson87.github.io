@@ -23,4 +23,4 @@
 * [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/)
 
 ## Resume
-* [Resume (pdf)](Resume - Todd Erickson.pdf)
+* <a href="Resume - Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
