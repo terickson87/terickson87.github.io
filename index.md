@@ -1,5 +1,5 @@
 ## Links
-* <a href="Resume - Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
+* <a href="Resume - Todd Erickson - Public.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-erickson-19458387/)
 
 ## Websites
