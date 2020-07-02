@@ -1,5 +1,3 @@
-# terickson87.github.io
-
 ## GitHub Profile
 * [https://github.com/terickson87](https://github.com/terickson87)
 
@@ -23,3 +21,6 @@
 * [JSON File Parser (enter "buildinglist.json" in the field and press "Submit Query")](http://twericks.freevar.com/J9HRhBNZsM-HW4/48wUPzCAsf-HW4.html)
 * [Azure cloud news aggregation webapp with Javascript, CSS, HTML, and a Flask & Python back-end to make RESTful calls](https://twericks-az-flask-app.azurewebsites.net/index.html)
 * [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/)
+
+## Test Relative Link
+* [README](README.md)
