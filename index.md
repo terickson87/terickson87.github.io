@@ -22,5 +22,5 @@
 * [Azure cloud news aggregation webapp with Javascript, CSS, HTML, and a Flask & Python back-end to make RESTful calls](https://twericks-az-flask-app.azurewebsites.net/index.html)
 * [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/)
 
-## Test Relative Link
-* [README](README.md)
+## Resume
+* [Resume (pdf)](Resume - Todd Erickson.pdf)
