@@ -1,3 +1,7 @@
+---
+title: terickson87.github.io
+---
+
 ## Links
 * <a href="Resume - Todd Erickson - Public.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-erickson-19458387/)
