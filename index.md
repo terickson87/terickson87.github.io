@@ -13,6 +13,8 @@ title: terickson87.github.io
 * [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/)
 
 ## Java/Android Public Repositories
+* [https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod](https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod)
+* [https://github.com/terickson87/IsWeatherGoodForAWalk_Android](https://github.com/terickson87/IsWeatherGoodForAWalk_Android)
 * [https://github.com/terickson87/MVVM](https://github.com/terickson87/MVVM)
 * [https://github.com/terickson87/build_your_first_app](https://github.com/terickson87/build_your_first_app)
 * [https://github.com/terickson87/first_android_app](https://github.com/terickson87/first_android_app)
