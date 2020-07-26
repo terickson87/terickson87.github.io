@@ -6,9 +6,9 @@ title: terickson87.github.io
 * [About Me](#about-me)
 * [Websites](#websites)
 * [Java And Android Public Repositories](#java-and-android-public-repositories)
-* [C++ Public Repositories](#c++-public-repositories)
-* [Other Resume Links](#other-resume-links)
+* [C++ Public Repositories](#c-public-repositories)
 * [Patents](#patents)
+* [Other Resume Links](#other-resume-links)
 
 ## About Me
 * <a href="Resume - Todd Erickson - Public.pdf" target="_blank">Resume (pdf)</a>
