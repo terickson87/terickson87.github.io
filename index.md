@@ -15,6 +15,7 @@ title: terickson87.github.io
 * [LinkedIn](https://www.linkedin.com/in/todd-erickson-19458387/)
 
 ## Websites
+
 ### Projects for CSCI 571 Web Technologies
 * [Simple Web Page Using CSS](http://twericks.freevar.com/eao9K5lyP2-HW3/5dxohXgWKO-Home.html)
 * [JSON File Parser (enter "buildinglist.json" in the field and press "Submit Query")](http://twericks.freevar.com/J9HRhBNZsM-HW4/48wUPzCAsf-HW4.html)
@@ -22,6 +23,7 @@ title: terickson87.github.io
 * [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/)
 
 ## Java And Android Public Repositories
+
 ### Personal Projects
 * [https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod](https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod)
 * [https://github.com/terickson87/IsWeatherGoodForAWalk_Android](https://github.com/terickson87/IsWeatherGoodForAWalk_Android)
@@ -31,6 +33,7 @@ title: terickson87.github.io
 * [https://github.com/terickson87/Android_Hello_World](https://github.com/terickson87/Android_Hello_World)
 
 ## C++ Public Repositories
+
 ### Personal Projects
 * [https://github.com/terickson87/CPlusPlusStarter](https://github.com/terickson87/CPlusPlusStarter)
 * [https://github.com/terickson87/CustomThrow](https://github.com/terickson87/CustomThrow)
@@ -50,6 +53,7 @@ title: terickson87.github.io
 * Geodesic structure forming systems and methods - Granted - [US 9789548B2](https://patents.google.com/patent/US9789548B2)
 
 ## Other Resume Links
+
 ### Course Links
 * [CSCI 510 - Software Management and Economics](https://classes.usc.edu/term-20203/course/csci-510/)
 * [CSCI 530 - Security Systems](https://classes.usc.edu/term-20203/course/csci-530/)
@@ -59,6 +63,7 @@ title: terickson87.github.io
 * [The MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 * [Weenix Operating System](https://github.com/brown-cs1690/handout/wiki)
 * Azure cloud news aggregation webapp [separate Node.js back-end Example Call](https://twericks-az-nodejs-newsapp.azurewebsites.net/gaurdian/home)
+
 ### Adcademic Awards
 * [AIAA Undergraduate Team Aircraft Design Competition - News](https://viterbi.usc.edu/news/news/2010/viterbi-student-team.htm)
 * [AIAA Undergraduate Team Aircraft Design Competition - Paper](https://issuu.com/sina_golshany/docs/aiaa_team_aircraft_design_paper_for)
