@@ -19,8 +19,8 @@ title: terickson87.github.io
 ### Projects for CSCI 571 Web Technologies
 * [Simple Web Page Using CSS](http://twericks.freevar.com/eao9K5lyP2-HW3/5dxohXgWKO-Home.html)
 * [JSON File Parser (enter "buildinglist.json" in the field and press "Submit Query")](http://twericks.freevar.com/J9HRhBNZsM-HW4/48wUPzCAsf-HW4.html)
-* [Azure cloud news aggregation webapp with Javascript, CSS, HTML, and a Flask & Python back-end to make RESTful calls](https://twericks-az-flask-app.azurewebsites.net/index.html)
-* [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/)
+* [Azure cloud news aggregation webapp with Javascript, CSS, HTML, and a Flask & Python back-end to make RESTful calls](https://twericks-az-flask-app.azurewebsites.net/index.html) (It may take a minute or two for the cloud app to fire up the first time)
+* [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/) (It may take a minute or two for the cloud app to fire up the first time)
 
 ## Java And Android Public Repositories
 
