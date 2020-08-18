@@ -12,7 +12,7 @@ title: terickson87.github.io
 
 ## About Me
 * <a href="Resume - Todd Erickson - Public.pdf" target="_blank">Resume (pdf)</a>
-* [LinkedIn](https://www.linkedin.com/in/todd-erickson-19458387/)
+* [LinkedIn](https://www.linkedin.com/in/todd-w-erickson/)
 
 ## Websites
 
@@ -68,3 +68,4 @@ title: terickson87.github.io
 * [AIAA Undergraduate Team Aircraft Design Competition - News](https://viterbi.usc.edu/news/news/2010/viterbi-student-team.htm)
 * [AIAA Undergraduate Team Aircraft Design Competition - Paper](https://issuu.com/sina_golshany/docs/aiaa_team_aircraft_design_paper_for)
 * [AIAA Undergraduate Team Aircraft Design Competition - Conference Presentation](https://issuu.com/sina_golshany/docs/egret_presentationpdf)
+* [DEN@Viterbi Scholarship](https://viterbigradadmission.usc.edu/denviterbi-scholarship/)
