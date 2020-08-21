@@ -11,7 +11,7 @@ title: terickson87.github.io
 * [Other Resume Links](#other-resume-links)
 
 ## About Me
-* <a href="Resume - Todd Erickson - Public.pdf" target="_blank">Resume (pdf)</a>
+* <a href="Resume Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-w-erickson/)
 
 ## Websites
