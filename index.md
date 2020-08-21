@@ -73,11 +73,40 @@ title: terickson87.github.io
 ### Academic Projects
 
 #### 737 Replacement
+<table>
+  <th>Albatross</th>
+  <th>Egret</th>
+  <th>Ibis</th>
+  <th>Levant</th>
+  <th>Waxwing</th>
+  <tr>
+    <td><a href="https://issuu.com/sina_golshany/docs/albatross_complete_proposal"><img width="250" src="projects/Albatross.png"></a></td>
+    <td><a href="https://issuu.com/sina_golshany/docs/egret_complete_proposal"><img width="250" src="projects/Egret.png"></a></td>
+    <td><a href=""><img width="250" src="projects/Ibis.png"></a></td>
+    <td><a href="https://issuu.com/sina_golshany/docs/levant_complete_proposal"><img width="250" src="projects/Levant.png"></a></td>
+    <td><a href="https://issuu.com/sina_golshany/docs/waxwing_complete_proposal"><img width="250" src="projects/Waxwing.png"></a></td>
+  </tr>
+</table>
+
+
 Albatross | Egret | Ibis | Levant | Waxwing
 --------- | --------- | --------- | --------- | ---------
 <a href="https://issuu.com/sina_golshany/docs/albatross_complete_proposal"><img width="250" src="projects/Albatross.png"></a> | <a href="https://issuu.com/sina_golshany/docs/egret_complete_proposal"><img width="250" src="projects/Egret.png"></a> | <a href=""><img width="250" src="projects/Ibis.png"></a> | <a href="https://issuu.com/sina_golshany/docs/levant_complete_proposal"><img width="250" src="projects/Levant.png"></a> | <a href="https://issuu.com/sina_golshany/docs/waxwing_complete_proposal"><img width="250" src="projects/Waxwing.png"></a>
 
 #### All Electric Light Sport Aircraft (LSA)
+<table>
+  <th>Dragonfly</th>
+  <th>Honey Badge</th>
+  <th>Pandion</th>
+  <th>Azalzan</th>
+  <tr>
+    <td><a href="https://issuu.com/sina_golshany/docs/dragonfly_with_foldouts__reduced_si"><img width="250" src="projects/Dragonfly.png"></a></td>
+    <td><a href="https://issuu.com/sina_golshany/docs/honey_badger_with_foldouts__reduced"><img width="250" src="projects/Honey Badger.png"></a></td>
+    <td><a href="https://issuu.com/sina_golshany/docs/pandion_with_foldouts"><img width="250" src="projects/Pandion.png"></a></td>
+    <td><a href="https://issuu.com/sina_golshany/docs/azalzan_with_foldouts"><img width="250" src="projects/Azalzan.png"></a></td>
+  </tr>
+</table>
+
 Dragonfly | Honey Badger | Pandion | Azalzan
 --------- | --------- | --------- | ---------
 <a href="https://issuu.com/sina_golshany/docs/dragonfly_with_foldouts__reduced_si"><img width="250" src="projects/Dragonfly.png"></a> | <a href="https://issuu.com/sina_golshany/docs/honey_badger_with_foldouts__reduced"><img width="250" src="projects/Honey Badger.png"></a> | <a href="https://issuu.com/sina_golshany/docs/pandion_with_foldouts"><img width="250" src="projects/Pandion.png"></a> | <a href="https://issuu.com/sina_golshany/docs/azalzan_with_foldouts"><img width="250" src="projects/Azalzan.png"></a>
