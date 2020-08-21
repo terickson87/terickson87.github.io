@@ -22,7 +22,7 @@ title: terickson87.github.io
 * [Azure cloud news aggregation webapp with Javascript, CSS, HTML, and a Flask & Python back-end to make RESTful calls](https://twericks-az-flask-app.azurewebsites.net/index.html) (It may take a minute or two for the cloud app to fire up the first time)
 * [Azure cloud news aggregation webapp with a React.js/React-Bootstrap front-end and a separate Node.js back-end](https://twericksazreactnewsapp.z22.web.core.windows.net/) (It may take a minute or two for the cloud app to fire up the first time)
 
-## Java And Android Public Repositories
+## Java and Android Public Repositories
 
 ### Personal Projects
 * [https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod](https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod)
@@ -80,11 +80,11 @@ title: terickson87.github.io
   <th style="text-align:center">Levant</th>
   <th style="text-align:center">Waxwing</th>
   <tr>
-    <td><a href="https://issuu.com/sina_golshany/docs/albatross_complete_proposal"><img width="250" src="projects/Albatross.png"></a></td>
-    <td><a href="https://issuu.com/sina_golshany/docs/egret_complete_proposal"><img width="250" src="projects/Egret.png"></a></td>
-    <td><a href=""><img width="250" src="projects/Ibis.png"></a></td>
-    <td><a href="https://issuu.com/sina_golshany/docs/levant_complete_proposal"><img width="250" src="projects/Levant.png"></a></td>
-    <td><a href="https://issuu.com/sina_golshany/docs/waxwing_complete_proposal"><img width="250" src="projects/Waxwing.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/albatross_complete_proposal"><img width="250" src="projects/Albatross.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/egret_complete_proposal"><img width="250" src="projects/Egret.png"></a></td>
+    <td style="text-align:center"><a href=""><img width="250" src="projects/Ibis.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/levant_complete_proposal"><img width="250" src="projects/Levant.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/waxwing_complete_proposal"><img width="250" src="projects/Waxwing.png"></a></td>
   </tr>
 </table>
 
@@ -95,10 +95,10 @@ title: terickson87.github.io
   <th style="text-align:center">Pandion</th>
   <th style="text-align:center">Azalzan</th>
   <tr>
-    <td><a href="https://issuu.com/sina_golshany/docs/dragonfly_with_foldouts__reduced_si"><img width="250" src="projects/Dragonfly.png"></a></td>
-    <td><a href="https://issuu.com/sina_golshany/docs/honey_badger_with_foldouts__reduced"><img width="250" src="projects/Honey Badger.png"></a></td>
-    <td><a href="https://issuu.com/sina_golshany/docs/pandion_with_foldouts"><img width="250" src="projects/Pandion.png"></a></td>
-    <td><a href="https://issuu.com/sina_golshany/docs/azalzan_with_foldouts"><img width="250" src="projects/Azalzan.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/dragonfly_with_foldouts__reduced_si"><img width="250" src="projects/Dragonfly.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/honey_badger_with_foldouts__reduced"><img width="250" src="projects/Honey Badger.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/pandion_with_foldouts"><img width="250" src="projects/Pandion.png"></a></td>
+    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/azalzan_with_foldouts"><img width="250" src="projects/Azalzan.png"></a></td>
   </tr>
 </table>
 
@@ -106,7 +106,7 @@ title: terickson87.github.io
 <table>
   <th style="text-align:center">ORCA</th>
   <tr>
-    <td><a href="projects/ORCA FINAL.pdf"><img width="250" src="projects/ORCA.png"></a></td>
+    <td style="text-align:center"><a href="projects/ORCA FINAL.pdf"><img width="250" src="projects/ORCA.png"></a></td>
   </tr>
 </table>
 
