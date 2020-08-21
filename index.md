@@ -80,11 +80,11 @@ title: terickson87.github.io
   <th style="text-align:center">Levant</th>
   <th style="text-align:center">Waxwing</th>
   <tr>
-    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/albatross_complete_proposal"><img width="250" src="projects/Albatross.png"></a></td>
-    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/egret_complete_proposal"><img width="250" src="projects/Egret.png"></a></td>
-    <td style="text-align:center"><a href=""><img width="250" src="projects/Ibis.png"></a></td>
-    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/levant_complete_proposal"><img width="250" src="projects/Levant.png"></a></td>
-    <td style="text-align:center"><a href="https://issuu.com/sina_golshany/docs/waxwing_complete_proposal"><img width="250" src="projects/Waxwing.png"></a></td>
+    <td style="text-align:center"><a href="projects/Albatross Complete Proposal.pdf"><img width="250" src="projects/Albatross.png"></a></td>
+    <td style="text-align:center"><a href="projects/Egret Complete Proposal.pdf"><img width="250" src="projects/Egret.png"></a></td>
+    <td style="text-align:center"><a href="projects/Ibis Complete Proposal.pdf"><img width="250" src="projects/Ibis.png"></a></td>
+    <td style="text-align:center"><a href="projects/Levant Complete Proposal.pdf"><img width="250" src="projects/Levant.png"></a></td>
+    <td style="text-align:center"><a href="projects/Waxwing Complete Proposal.pdf"><img width="250" src="projects/Waxwing.png"></a></td>
   </tr>
 </table>
 
