@@ -69,3 +69,9 @@ title: terickson87.github.io
 * [AIAA Undergraduate Team Aircraft Design Competition - Paper](https://issuu.com/sina_golshany/docs/aiaa_team_aircraft_design_paper_for)
 * [AIAA Undergraduate Team Aircraft Design Competition - Conference Presentation](https://issuu.com/sina_golshany/docs/egret_presentationpdf)
 * [DEN@Viterbi Scholarship](https://viterbigradadmission.usc.edu/denviterbi-scholarship/)
+
+### Academic Projects
+#### 737 Replacement
+Albatross | Egret | Ibis | Levant | Waxwing
+--------- | --------- | --------- | --------- | ---------
+<a href="https://issuu.com/sina_golshany/docs/albatross_complete_proposal"><img width="250" src="projects/Albatross.png"></a> | <a href="https://issuu.com/sina_golshany/docs/egret_complete_proposal"><img width="250" src="projects/Egret.png"></a> | <a href=""><img width="250" src="projects/Ibis.png"></a> | <a href="https://issuu.com/sina_golshany/docs/levant_complete_proposal"><img width="250" src="projects/Levant.png"></a> | <a href="https://issuu.com/sina_golshany/docs/waxwing_complete_proposal"><img width="250" src="projects/Waxwing.png"></a>
