@@ -11,6 +11,9 @@ title: terickson87.github.io
 * [Other Resume Links](#other-resume-links)
 
 ## About Me
+
+I am a former Propulsion Engineer at Boeing and current MS Computer Science Student at USC with an expected graduation of December 2020. I have always been interested in compuster science, and made a decision to make a carrer change. I am excited to apply my 8 years of enterprise engineering experience, collaboration with project management and upper echelons of executive leadership, and leading teams of engineers I have had at Boeing and to follow my diverse passion for the many areas of computer science, from operating systems to React web applications, in an exciting new career in software development.
+
 * <a href="Resume Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-w-erickson/)
 
