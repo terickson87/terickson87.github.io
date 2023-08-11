@@ -12,7 +12,7 @@ title: terickson87.github.io
 
 ## About Me
 
-I am currently a Software Development Engineer at Amazon, formerly a Propulsion Engineer at Boeing. I started my career at Boeing following my passion for the physical sciences. However, I have always been interested in computer science, and after 8 years at Boeing, I decided to make a career change. I decided to return to school to get a Master's in computer science, after which I started my computer science career at Amazon's MCF. I am currently enjoying the opportunity this work provides him to help businesses, both big and small, succeed - at the scale of Amazon.
+I am currently a Software Development Engineer at Amazon, formerly a Propulsion Engineer at Boeing. I started my career at Boeing following my passion for the physical sciences. However, I have always been interested in computer science, and after 8 years at Boeing, I decided to make a career change. I decided to return to school to get a Master's in computer science, after which I started my computer science career at Amazon's MCF. I am currently enjoying the opportunity this work provides me to help businesses, both big and small, succeed - at the scale of Amazon.
 
 * <a href="Resume Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-w-erickson/)
