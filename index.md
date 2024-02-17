@@ -4,8 +4,6 @@ title: terickson87.github.io
 
 ## Contents
 * [About Me](#about-me)
-* [Java And Android Public Repositories](#java-and-android-public-repositories)
-* [C++ Public Repositories](#c-public-repositories)
 * [Patents](#patents)
 * [Other Resume Links](#other-resume-links)
 
@@ -17,6 +15,8 @@ Amazon has been doing its job in keeping me quite busy, so my repo hasn't been u
 
 * <a href="Resume Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-w-erickson/)
+* [My Github home](https://github.com/terickson87)
+* [My Github repositories](https://github.com/terickson87?tab=repositories)
 
 ## Patents
 * System and method for augmenting a primary powerplant - Pending - [US 20180118364A1](https://patents.google.com/patent/US20180118364A1/en)
@@ -29,24 +29,6 @@ Amazon has been doing its job in keeping me quite busy, so my repo hasn't been u
 * Vibration dampening for horizontal stabilizers - Granted - [US 9828084B2](https://patents.google.com/patent/US9828084B2/en)
 * Fire-retarding artillery shell - Granted - [US 9816791B2](https://patents.google.com/patent/US9816791B2)
 * Geodesic structure forming systems and methods - Granted - [US 9789548B2](https://patents.google.com/patent/US9789548B2)
-
-## Java and Android Public Repositories
-
-### Personal Projects
-* [https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod](https://github.com/terickson87/IsWeatherGoodForAWalk_BottomNav_Andriod)
-* [https://github.com/terickson87/IsWeatherGoodForAWalk_Android](https://github.com/terickson87/IsWeatherGoodForAWalk_Android)
-* [https://github.com/terickson87/MVVM](https://github.com/terickson87/MVVM)
-* [https://github.com/terickson87/build_your_first_app](https://github.com/terickson87/build_your_first_app)
-* [https://github.com/terickson87/first_android_app](https://github.com/terickson87/first_android_app)
-* [https://github.com/terickson87/Android_Hello_World](https://github.com/terickson87/Android_Hello_World)
-
-## C++ Public Repositories
-
-### Personal Projects
-* [https://github.com/terickson87/CPlusPlusStarter](https://github.com/terickson87/CPlusPlusStarter)
-* [https://github.com/terickson87/CustomThrow](https://github.com/terickson87/CustomThrow)
-* [https://github.com/terickson87/HackerRank](https://github.com/terickson87/HackerRank)
-* [https://github.com/terickson87/SamsTeachYourself](https://github.com/terickson87/SamsTeachYourself)
 
 ## Other Resume Links
 
