@@ -9,9 +9,9 @@ title: terickson87.github.io
 
 ## About Me
 
-Todd is a Software Development Engineer at Amazon, where he works on the Multi-Channel Fulfillment service that enables businesses of all sizes to leverage Amazon's fulfillment network. He has master's degrees in both Computer Science and Aerospace Engineering from the University of Southern California and a background in aerospace engineering at Boeing.
+Todd is a professional Software Development Engineer. Most recently he has worked at Amazon on the Multi-Channel Fulfillment service that enables businesses of all sizes to leverage Amazon's fulfillment network. He has master’s degrees in both Computer Science and Aerospace Engineering from the University of Southern California and a background in aerospace engineering at Boeing.
 
-With 3 years of experience at Amazon, Todd has designed, developed, and maintained software using Java, Kotlin, TypeScript, Python, AWS cloud services, and the AWS CDK. He has created a React website for the supplychain.amazon.com order management dashboard, and a fulfillment client for eCommerce platforms, including Shopify. Todd enjoys the opportunity to work with cutting-edge technologies and solve complex problems that help customers succeed at the scale of Amazon.
+With 3 years of experience at Amazon, Todd has designed, developed, and maintained software using Java, Kotlin, TypeScript, Python, AWS cloud services, and the AWS CDK. He has created a React website for the supplychain.amazon.com order management dashboard, and a fulfillment client for eCommerce platforms, including Shopify. He is excited to use his passion for applying the full stack of software development to innovate and build software solutions that customers will love.
 
 * <a href="Resume Todd Erickson.pdf" target="_blank">Resume (pdf)</a>
 * [LinkedIn](https://www.linkedin.com/in/todd-w-erickson/)
